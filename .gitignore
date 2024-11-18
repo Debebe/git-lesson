@@ -4,6 +4,7 @@
 
 # Session Data files
 .RData
+temp/ # anything in this repo will be ignored
 
 # User-specific files
 .Ruserdata
